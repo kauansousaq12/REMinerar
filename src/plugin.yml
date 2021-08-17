@@ -1,0 +1,6 @@
+name: REMinerar
+version: 1.0
+author: KauanConfig
+main: me.reminerar.Main
+commands:
+  minerar:
